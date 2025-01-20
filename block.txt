@@ -10,6 +10,12 @@ tpc.googlesyndication.com
 googleadservices.com
 googlesyndication.com
 googletagservices.com
+adservice.google.com
+pagead2.googleadservices.com
+doubleclick.net
+mediavisor.doubleclick.net
+google-analytics.com
+ssl.google-analytics.com
 media.admob.com
 admob.com
 invitemedia.com
