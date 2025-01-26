@@ -142,3 +142,5 @@ open.oneplus.net
 d2wy8f7a9ursnm.cloudfront.net
 js.sentry-cdn.com
 ymatuhin.ru
+an.yandex.ru
+mc.yandex.ru
